@@ -1,0 +1,53 @@
+
+### Features ###
+# Eenable/Disable option
+# Change order
+# Set options position:
+    - Before Add To Cart Button
+    - After Add To Cart Button
+# Conditional logic based on:
+    - product
+    - category 
+    - other fields
+# Variants
+# Form Fields Builder
+# Show your options from outside WooCommerce product screen using action hooks
+# Enable the options for specific roles.
+# Choice between fixed or percentage price increase
+# Reset to Default
+    - Reset button to revert all changes back to the original WooCommerce fields settings
+    
+
+### Fields Types ###
+# Text
+# Select
+# Checkbox
+# Radio
+# Hidden
+# Password
+# Textarea
+# Multi-select
+# Date picker
+# Time picker
+# Heading
+# Label
+# Upload
+# Range picker
+
+
+
+### Field Attributes ###
+# Name (id)
+# Label
+# Label Class
+# Label position
+# Default Value
+# CSS Class
+# Position
+# Required
+# Enabled
+# Placeholder
+# Validation
+# Field Display Rules
+
+
